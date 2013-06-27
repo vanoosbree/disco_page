@@ -1,0 +1,46 @@
+*{
+	font-family: Courier, sans-serif;
+}
+
+body {
+	margin: 50px auto;
+	background-color: #061E05;
+	width: 950px;
+}
+
+.clear {
+	clear: both;
+}
+
+#mute {
+	padding: 0px;
+	margin: 0px;
+	font-weight: normal;
+	color: red;
+	float: left;
+	display: inline-block;
+}
+
+#clear_all {
+	padding: 0px;
+	margin: 0px;
+	font-weight: normal;
+	color: white;
+	float: right;
+	display: inline-block;
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	height: 55px;
+}
+
+li {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	list-style-type: none;
+	margin: 3px;
+	padding: 0px;
+}
